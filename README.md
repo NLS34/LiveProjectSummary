@@ -17,7 +17,7 @@ was confirming deleting the sponsor. The fix was a change in the button code.
 <button class="iconBtn" onclick="window.location.href ='@Url.Action("Index", "Sponsors")'">
 
   Another of the jobs that I was charged with was working on editing the Details page of the DisplayLinks. 
-I reformatted the text and added buttons to the Back and Edit links. I performed most of the editing within the form here:
+I reformatted the text and added buttons to the Back and Edit links. A lot of this code was edited by me:
 
 <dl class="Display-container-title-details">
     <dd>

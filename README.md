@@ -46,8 +46,8 @@ I reformatted the text and added buttons to the Back and Edit links. I performed
 In addition. I supplied buttons to the Edit and Back To List links, as shown here:
    
    **<p>
-*    <a class="btn btn-main" href="@Url.Action("Edit", "DisplayLinks", new { id = Model.LinkId})"><i class="fa fa-edit fa-fw"></i>Edit</a>
- *   <a class="btn btn-main" href="@Url.Action("Index", "DisplayLinks")"><i class="fa fa-hand-point-left fa-fw"></i>Back To List</a>
+    <a class="btn btn-main" href="@Url.Action("Edit", "DisplayLinks", new { id = Model.LinkId})"><i class="fa fa-edit fa-fw"></i>Edit</a>
+    <a class="btn btn-main" href="@Url.Action("Index", "DisplayLinks")"><i class="fa fa-hand-point-left fa-fw"></i>Back To List</a>
 
 **</p>
 

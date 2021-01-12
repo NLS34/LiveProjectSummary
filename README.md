@@ -45,11 +45,11 @@ I reformatted the text and added buttons to the Back and Edit links. I performed
    
 In addition. I supplied buttons to the Edit and Back To List links, as shown here:
    
-   <p>
-    <a class="btn btn-main" href="@Url.Action("Edit", "DisplayLinks", new { id = Model.LinkId})"><i class="fa fa-edit fa-fw"></i>Edit</a>
-    <a class="btn btn-main" href="@Url.Action("Index", "DisplayLinks")"><i class="fa fa-hand-point-left fa-fw"></i>Back To List</a>
+   **<p>
+*    <a class="btn btn-main" href="@Url.Action("Edit", "DisplayLinks", new { id = Model.LinkId})"><i class="fa fa-edit fa-fw"></i>Edit</a>
+ *   <a class="btn btn-main" href="@Url.Action("Index", "DisplayLinks")"><i class="fa fa-hand-point-left fa-fw"></i>Back To List</a>
 
-</p>
+**</p>
 
 Another task that I was assigned with was enhancing the sponsors' icons on the index page.
 I was only able to accomplish scaling up the image in size on hovering, which was one of a couple tasks that needed completed for this story.

@@ -52,7 +52,7 @@ In addition. I supplied buttons to the Edit and Back To List links, as shown her
 **</p>
 
 Another task that I was assigned with was enhancing the sponsors' icons on the index page.
-I was only able to accomplish scaling up the image in size on hovering, which was one of a couple tasks that needed completed for this story.
+Part of this task was to make the sponsor's icon zoom in slightly when hovering over it.
 I was unable to find a proper class in the bootstrap.css, so I resorted to creating my own class in Site.css, as shown here:
 
 
@@ -74,15 +74,6 @@ HTML (class zoom)
 
 
   
-Problems Encountered:
-
-  I had a lot of trouble getting started at first due to the "Roslyn" error.
-This ended up being a quick fix, accomplished through cleaning and rebuilding the project in the
-"Build" tab of Visual Studio 2019. I then updated the database, and the site was good to go. 
-
-  There were times when I encountered an error trying to update the database due to something like an asp.net related error.
-The solution was to enter the SQL server, and delete the related file.
-
 
 Conclusion:
 
